@@ -39,7 +39,8 @@ controllers/
 models/
 
 
-## Tech Stack
+![image](https://github.com/user-attachments/assets/a62f5719-3c9d-4c23-845d-af160daa01a2)
+![image](https://github.com/user-attachments/assets/00860b56-9288-444e-90dd-bea12660ba5e)
 
 
 ## Setup Instructions
@@ -53,5 +54,3 @@ cd todo
 
 cd todo-backend
 
-![image](https://github.com/user-attachments/assets/a62f5719-3c9d-4c23-845d-af160daa01a2)
-![image](https://github.com/user-attachments/assets/00860b56-9288-444e-90dd-bea12660ba5e)
